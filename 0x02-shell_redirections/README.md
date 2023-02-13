@@ -1,1 +1,1 @@
-Shell redirectins
+Shell Redirections
